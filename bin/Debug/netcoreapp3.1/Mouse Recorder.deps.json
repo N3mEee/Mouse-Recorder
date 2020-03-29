@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mouse Recorder/1.0.0": {
+        "runtime": {
+          "Mouse Recorder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mouse Recorder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
